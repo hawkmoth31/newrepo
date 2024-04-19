@@ -191,7 +191,7 @@ main .box1 {box-sizing: border-box; }
 #app {padding-top: 60px; font-size: 28px; text-align: left; font-family: 'pretendard-medium'; font-size: 36px; line-height: 1; color: #f5f5f0;}
 
 /* box3 작업물 포트폴리오 */
-.box3 {height: 1700px; line-height: 1.2; }
+.box3 {height: 1900px; line-height: 1.2; }
 .box3 h3 {display: inline-block; border-bottom: #2a2727 1px solid; font-size: 16px; margin-top: 50px;}
 .box3 ul { width: 80%; margin: 100px auto;}
 .box3 ul li { border-bottom: #7e7474 1px solid; }
@@ -199,11 +199,13 @@ main .box1 {box-sizing: border-box; }
 .box3 ul li div a {margin: 8px; font-size: 4.5rem; text-align: left; font-family: 'josefin sans','Pretendard-Light';  z-index: 5; word-break: break-all;}
 .box3 ul li div:hover { transform: translateX(-80px); padding: 100px;}
 .box3 span { font-family: 'pretendard-line';}
+#commingsoon { pointer-events : none;}
 
 .box3 ul li:first-child:hover {background: url(images/005.png) no-repeat 100% 0; background-size: contain;}
 .box3 ul li:nth-child(2):hover {background: url(images/006.png) no-repeat 100% 0; background-size: contain;}
 .box3 ul li:nth-child(3):hover {background: url(images/007.png) no-repeat 100% 0; background-size: contain;}
-.box3 ul li:last-child:hover {background: url(images/008.png) no-repeat 100% 0; background-size: contain;}
+.box3 ul li:nth-child(4):hover {background: url(images/008.png) no-repeat 100% 0; background-size: contain;}
+.box3 ul li:nth-child(5):hover {background: url(images/016.png) no-repeat 100% 100%; background-size: contain;}
 
 /* 이미지 */
 
