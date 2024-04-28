@@ -204,7 +204,7 @@ main .box1 {box-sizing: border-box; }
 .box3 ul li:first-child:hover {background: url(images/005.png) no-repeat 100% 0; background-size: contain;}
 .box3 ul li:nth-child(2):hover {background: url(images/006.png) no-repeat 100% 0; background-size: contain;}
 .box3 ul li:nth-child(3):hover {background: url(images/007.png) no-repeat 100% 0; background-size: contain;}
-.box3 ul li:nth-child(4):hover {background: url(images/008.png) no-repeat 100% 0; background-size: contain;}
+.box3 ul li:nth-child(4):hover {background: url(images/018.png) no-repeat 100% 0; background-size: contain;}
 .box3 ul li:nth-child(5):hover {background: url(images/016.png) no-repeat 100% 100%; background-size: contain;}
 
 /* 이미지 */
